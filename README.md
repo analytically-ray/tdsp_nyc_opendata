@@ -1,2 +1,8 @@
 # tdsp_nyc_opendata
-NEBDHub &amp; NSDC Transportation Data Science Project (TSDP) - NYC OpenData Transportation
+Project Title: NEBDHub &amp; NSDC Transportation Data Science Project (TSDP) - NYC OpenData Transportation
+Overview:
+Dataset:
+Methodology:
+Key Results:
+Visualizations:
+How to Reproduce:
