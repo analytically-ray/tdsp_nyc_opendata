@@ -10,7 +10,7 @@ Methodology and Tools:
 	- [ChatGPT](https://chatgpt.com)
 	- [GitHub](https://github.com/), [Git Bash](https://git-scm.com/)
 Here's some common Git commands:
-```
+```bash
 git mkdir <new foldername>
 git add <file or folder name or .(all)>
 git commit -m "message or note"
