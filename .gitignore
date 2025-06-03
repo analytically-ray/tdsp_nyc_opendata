@@ -1,3 +1,6 @@
+nyc_crashes.db
+nyc_crashes.db-journal
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
