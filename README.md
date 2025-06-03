@@ -3,7 +3,7 @@ Project Title: NEBDHub &amp; NSDC Transportation Data Science Project (TSDP) - N
 
 Overview:
 
-Dataset: Motor Vehicle Collisions - Crashes [Link Text](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
+Dataset: Motor Vehicle Collisions - Crashes [](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
 
 Methodology and Tools:
 1. Data Preparation
