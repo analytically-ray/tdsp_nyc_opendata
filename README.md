@@ -9,6 +9,13 @@ Methodology and Tools:
 - General Tools
 	- [ChatGPT](https://chatgpt.com)
 	- [GitHub](https://github.com/), [Git Bash](https://git-scm.com/)
+Here's some common Git commands:
+```
+git mkdir <new foldername>
+git add <file or folder name or .(all)>
+git commit -m "message or note"
+git push
+```
 1. Data Preparation
 	- Jupyter Notebook, Python
 	- [DBeaver](https://dbeaver.io), SQLite: The database has been ignored due to GitHub storage constraints. [api2sqlite.ipynb](https://github.com/analytically-ray/tdsp_nyc_opendata/blob/main/api2sqlite.ipynb) can be run to create a local database to run subsequent analysis.
