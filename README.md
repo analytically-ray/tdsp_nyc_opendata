@@ -6,7 +6,7 @@ Overview: This repository outlines the steps to complete the [Navigator TSDP](ht
 Dataset: [Motor Vehicle Collisions - Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
 
 Methodology and Tools:
-0. General Tools
+- General Tools
 	- [ChatGPT](https://chatgpt.com)
 	- [GitHub](https://github.com/), [Git Bash](https://git-scm.com/)
 1. Data Preparation
